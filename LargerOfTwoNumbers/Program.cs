@@ -17,7 +17,7 @@ namespace LargerOfTwoNumbers
            Console.WriteLine("Please input second number:");
             //var of cr
             var secondNumber = Convert.ToInt32(Console.ReadLine());
-            //if first>2nd return: First lrger
+            //if first>2nd return: First larger
             if (firstNumber > secondNumber)
             {
                 Console.WriteLine("First number is bigger!");
